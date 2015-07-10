@@ -1,0 +1,45 @@
+<style>
+
+	/* Display message styles */
+	.message {
+		padding: 2px 4px;
+		margin-right: 10px;
+		border-radius: 4px;
+	}
+	
+	.information {
+		color: #31708f;
+		background-color: #E2EFF5;
+		border: 1px solid;
+	}
+
+	.error {
+		color: #c7254e;
+		background-color: #f9f2f4;
+		border: 1px solid;
+	}
+	
+	.warning {
+		color: #404033;
+		background-color: #FDFDC0;
+		border: 1px solid;		
+	}
+	
+	.success {
+		color: #3c763d;
+		background-color: #dff0d8;
+		border: 1px solid;
+	}
+	
+	/* End display message styles */
+
+	div.admin-form {
+		border: 2px solid #ddd;
+		border-radius: 6px;
+		padding: 5px;
+	}
+
+	.hide {
+		display: none;
+	}
+</style>
