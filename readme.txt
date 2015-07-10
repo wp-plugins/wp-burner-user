@@ -9,7 +9,7 @@ Stable tag: trunk
 License: GNU General Public License (GPL) version 2
 License URI: https://www.gnu.org/licenses/gpl.html
 
-WP Burner User allows a WP admin to create an anonymous account with randomly generated data.
+WP Burner User allows a WP admin to create an anonymous account with randomly generated user data.
 
 == Description ==
 Depending on the circumstances, one might want to create anonymous accounts for their WordPress instance. WP Burner User quickly and easily generates a user using randomly generated data. The WP admin has the opportunity to manually enter the username, email, first name, last name, and password.
@@ -21,14 +21,22 @@ Depending on the circumstances, one might want to create anonymous accounts for 
 * The new user is created as a subscriber
 
 == Installation ==
-1. Download the plugin from https://dev.tonyhetrick.com/wp-burner-user-files/wp-burner-user.zip
+**Preferred installation**
+
+1. Navigate to the plugins page in your Wordpress admin panel
+2. Click on *Plugins > Add New*
+3. Search for *WP Burner User* and press the *Install Now* button
+
+**Manual Installation**
+
+1. Download the plugin via WordPress.org
 2. Upload the ZIP file through the *Plugins > Add New > Upload* screen in your WordPress dashboard
 3. Activate the plugin through the *Plugins* menu in WordPress
 
 == Screenshots ==
-1. [Primary WP Burner User admin panel] (https://dev.tonyhetrick.com/wp-burner-user-files/screenshot-1.png)
-2. [New burner user notification] (https://dev.tonyhetrick.com/wp-burner-user-files/screenshot-2.png)
-3. [New burner user added to the user list] (https://dev.tonyhetrick.com/wp-burner-user-files/screenshot-3.png)
+1. [Primary WP Burner User admin panel] (screenshot-1.png)
+2. [New burner user notification] (screenshot-2.png)
+3. [New burner user added to the user list] (screenshot-3.png)
 
 == Frequently Asked Questions ==
 **What happens if I don't enter any user data?**
